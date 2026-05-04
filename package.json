@@ -15,7 +15,7 @@
     "fs": "0.0.1-security",
     "mongodb": "^3.5.5",
     "nodemon": "^2.0.2",
-    "uuid": "^8.2.0"
+    "uuid": "^14.0.0"
   },
   "author": "Giovanni Rago, ragog90@gmail.com",
   "license": "ISC",
